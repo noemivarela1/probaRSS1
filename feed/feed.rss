@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Example Feed</title>
+        <description>My first feed</description>
+        <link>https://noemivarela1.github.io/probaRSS1/</link>
+        <pubDate>Sun, 13 Nov 2022 21:00:02 GMT</pubDate>
+        <managingEditor>noemivarela1@gmail.com</managingEditor>
+        <item>
+            <title>Test page</title>
+            <link>https://noemivarela1.github.io/probaRSS1/</link>
+            <pubDate>Sun, 13 Nov 2022 21:00:02 GMT</pubDate>
+            <description>Ikariam</description>
+        </item>
+    </channel>
+</rss>
